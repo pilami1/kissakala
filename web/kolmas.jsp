@@ -1,6 +1,6 @@
 <%-- 
-    Document   : toka
-    Created on : Apr 20, 2016, 1:02:41 PM
+    Document   : kolmas
+    Created on : Apr 20, 2016, 1:47:22 PM
     Author     : omale020
 --%>
 
@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Tokasivu2</h1>
+        <h1>Hello World!</h1>
     </body>
 </html>
